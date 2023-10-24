@@ -7,7 +7,7 @@ Make sure [python](https://www.python.org/downloads/) is installed on the system
 Run this in the terminal
 
 ```bash
-pytho3 manifesto.py
+python3 manifesto.py
 ```
 
 enjoy :)
